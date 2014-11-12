@@ -26,6 +26,6 @@ Upcoming:
 Past:
 
  * 2014-11-06
-    - [Minutes](https://nodejs.org/advisory-board/2014-11-06/minutes/)
+    - [Minutes](https://nodejs.org/advisory-board/2014-11-06/minutes.html)
  * 2014-10-23
-    - [Minutes](https://nodejs.org/advisory-board/2014-10-23/minutes/)
+    - [Minutes](https://nodejs.org/advisory-board/2014-10-23/minutes.html)
