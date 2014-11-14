@@ -11,7 +11,7 @@
 * TJ Fontaine
 * Cian O'Maidin
 * Kevin Decker
-* Eric Toth
+* Erik Toth
 * Bert Belder
 * Danese Cooper
 * Todd Moore
