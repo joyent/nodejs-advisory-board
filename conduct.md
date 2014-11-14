@@ -4,7 +4,7 @@ This Code of Conduct is adapted from [Rust's wonderful CoC](https://github.com/r
 
 * We are committed to providing a friendly, safe and welcoming environment for
 all, regardless of gender, sexual orientation, disability, ethnicity, religion,
-or similar personal characteristic.
+nationality, language ability, or similar personal characteristic.
 * Please avoid using overtly sexual nicknames or other nicknames that might
 detract from a friendly, safe and welcoming environment for all.
 * Please be kind and courteous. There's no need to be mean or rude.
