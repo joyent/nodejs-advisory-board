@@ -28,6 +28,8 @@ The TC has final authority over this project including:
 * Project governance and process
 * Contribution policy
 * GitHub repository hosting
+* nodejs.org website
+* Releases and Release process
 
 The TC can change its governance model if they deem it necessary. The current
 governance rules are:
