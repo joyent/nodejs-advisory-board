@@ -113,7 +113,7 @@ All contributions to the Project are incorporated at the sole discretion of the
 Project administrators.
 
 Unacceptable behavior from any community member, including sponsors, employees
-or companies with representatives on the Technical Committee, customers, or
+of companies with representatives on the Technical Committee, customers, or
 others with decision-making authority, will not be tolerated.
 
 Anyone asked to stop unacceptable behavior is expected to comply immediately.
