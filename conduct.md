@@ -133,6 +133,22 @@ ensure that your grievance is handled appropriately.
 In general, we will choose the course of action that we judge as being most in
 the interest of fostering a safe and friendly community.
 
+## Court of Public Opinion and Due Process
+
+This Code of Conduct both outlines how to report violations of this Code of
+Conduct and how those accused of a violation under this Code of Conduct can
+seek redress if they feel like they have been falsely or unfairly accused.
+
+These two clauses are inseparable and are there to protect all parties while
+a violation is being investigated by one or more of the team members. Please
+**first** give this process a chance by refraining from airing violations or
+grievances publicly on viral media until the team members have had a chance
+to determine culpability and severity of any violations that occur. 
+
+Taking justice into your own hands by publicizing violations before team
+members have had a chance to perform due diligence is vigilantism, and 
+therefore also a violation of this Code of Conduct. 
+
 ## Contact Info
 
 Please contact an abuse team member if you need to report a problem or address
