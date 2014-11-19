@@ -56,7 +56,7 @@ similar personal characteristics.
 
 Please be kind and courteous. There's no need to be mean or rude.
 
-Please respect that differences of opinion are commmon when it comes to
+Please respect that differences of opinion are common when it comes to
 technical choices, and that every design or implementation choice carries a
 trade-off and numerous costs. There is seldom a single right answer. A
 difference of opinion over technology preferences is not a license to be rude.
@@ -75,7 +75,7 @@ Please avoid the use of personal pronouns in code comments or documentation.
 There is no need to address individuals when explaining code (e.g. "When the
 developer").
 
-## Harrassment
+## Harassment
 
 Harassment includes, but is not limited to: harmful or prejudicial verbal or
 written comments related to gender identity, sexual orientation, disability,
