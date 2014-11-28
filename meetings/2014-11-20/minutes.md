@@ -1,19 +1,19 @@
 # November 20, 2014
 
 ## Attendance
-Kevin Decker
-Chris Williams
-Issac Roth
-Chris Saint-Amant
-Gianugo Rabellino
-Scott Hammond
-Todd Moore
-Erik Toth
-TJ Fontaine
-Daniel Shaw
-Cian O'Maiden
-Isaac Schlueter
-Bert Belder
+* Kevin Decker
+* Chris Williams
+* Issac Roth
+* Chris Saint-Amant
+* Gianugo Rabellino
+* Scott Hammond
+* Todd Moore
+* Erik Toth
+* TJ Fontaine
+* Daniel Shaw
+* Cian O'Maiden
+* Isaac Schlueter
+* Bert Belder
 
 
 ## Review of Action Items
