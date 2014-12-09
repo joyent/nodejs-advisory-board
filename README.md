@@ -19,13 +19,14 @@ A list of the interim board members may be found here:
 
 Upcoming:
 
- * (TBD) Week Of 2014-11-17
  * (TBD) Week Of 2014-12-1
  * (TBD) Week of 2014-12-15
 
 Past:
 
+ * 2014-11-20
+    - [Minutes](https://nodejs.org/advisory-board/2014-11-20/minutes.md)
  * 2014-11-06
-    - [Minutes](https://nodejs.org/advisory-board/2014-11-06/minutes.html)
+    - [Minutes](https://nodejs.org/advisory-board/2014-11-06/minutes.md)
  * 2014-10-23
-    - [Minutes](https://nodejs.org/advisory-board/2014-10-23/minutes.html)
+    - [Minutes](https://nodejs.org/advisory-board/2014-10-23/minutes.md)
