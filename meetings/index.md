@@ -5,8 +5,8 @@ Its GitHub repository can be found at
 [http://github.com/joyent/nodejs-advisory-board](http://github.com/joyent/nodejs-advisory-board)
 
  * 2014-11-20
-  - [Minutes](2014-11-20/minutes.html)
+  - [Minutes](2014-11-20/minutes.md)
  * 2014-11-06
-  - [Minutes](2014-11-06/minutes.html)
+  - [Minutes](2014-11-06/minutes.md)
  * 2014-10-23
-  - [Minutes](2014-10-23/minutes.html)
+  - [Minutes](2014-10-23/minutes.md)
