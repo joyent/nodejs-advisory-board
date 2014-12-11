@@ -41,6 +41,7 @@ Manish ?
 ## Review of Action Items (Chris Williams, et. al.)  
 
 ### GitHub Process (TJ Fontaine)  
+No additional updates.
 
 ### Code of Conduct WG (Todd Moore)
 **TM:** No bandwidth to run this WG.  
