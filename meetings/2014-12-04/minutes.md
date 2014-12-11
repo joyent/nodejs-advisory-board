@@ -141,8 +141,8 @@ TF will setup kickoff meeting and drive this WG.
 
 
 # Next Meeting  
-
-[https://global.gotomeeting.com/join/273347861](https://global.gotomeeting.com/join/273347861) or please dial-in in using your telephone.  
+Please join our next meeting, Friday Dec 19, 2014 at 12:00 PM EST / 9:00 AM PST at
+[https://global.gotomeeting.com/join/866889469](https://global.gotomeeting.com/join/866889469) or please dial-in in using your telephone.  
 
 ```
 United States: +1 (626) 521-0010
@@ -163,9 +163,9 @@ Sweden: +46 (0) 852 500 179
 Switzerland: +41 (0) 435 0167 65
 United Kingdom: +44 (0) 330 221 0096  
 
-Access Code: 273-347-861
+Access Code: 866-889-469
 Audio PIN: Shown after joining the meeting  
 
-Meeting ID: 273-347-861  
+Meeting ID: 866-889-469  
 
 ```  
