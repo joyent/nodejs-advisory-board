@@ -11,9 +11,9 @@ Todd Moore (TM)
 Issac Roth (IR)  
 Chris Saint-Amant (CS)  
 Bert Belder (BB)  
-Trevor Norris (TN)
-Gianugo Rabellino (GR)
-Danese Cooper (DC)
+Trevor Norris (TN)  
+Gianugo Rabellino (GR)  
+Danese Cooper (DC)  
 
 
 
