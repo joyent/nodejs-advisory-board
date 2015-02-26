@@ -32,7 +32,7 @@ No discussion.
 ## New Business (Private)  
 
 ### Review of Open Action Items (CW, et. al.)
-**TM:** Feedback on foundation has been positive.  Â
+**TM:** Feedback on foundation has been positive.  
 **BB:** Two meetings before NodeSummit. Biggest roadblocks are governance model and which codebase to use as starting point for realigned foundation.  
 **SH:** We messaged that it would take a couple months to setup foundation (legal, business, technical tracks, etc). Was hoping to walk through the project plan in more detail during this meeting. JM and MD put together a plan that outlines details, timelines, etc. <shared via screensharing>  
 **CS:** Just ensure there’s time enough for discussion.  
