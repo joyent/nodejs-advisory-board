@@ -84,7 +84,7 @@ No discussion.
 ### New Action Items  
 **MD:** Will add announcement checkpoints to plan to update external parties.  
 **BB, TF, MD:** Schedule Technical governance and reconciliation meeting.  
-**MD:** Facilitate/draft language around goals.
+**MD:** Facilitate/draft language around goals.  
 **IS:** Send out homework questions to stakeholders in technical discussion.  
 **CW:** Add discussion time re: AB future to schedule for next meeting.  
 
