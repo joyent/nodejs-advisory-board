@@ -11,7 +11,7 @@ Scott Hammond (SH)
 Isaac Schlueter (IS)  
 TJ Fontaine (TF)  
 Gianugo Rabellino (GR)  
-Chris Saint-Amant (CS)
+Chris Saint-Amant (CS)  
 Issac Roth (IR)  
 
 
