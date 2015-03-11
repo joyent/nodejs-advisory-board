@@ -59,7 +59,7 @@ No discussion.
 **IS:** Not even talking “high level”. What does it look like if the projects were to merge? We need to align on that. What does success look like? Know where each other stands will help progress.  
 **IR:** I like the idea of issuing a public statement of intention and an outline of work toward that goal. Helps with community transparency.  
 **JZ:** I defer to all parties on this. I’m concerned with output.  
-**TM:** Idea of getting together with arbiter needs to happen.
+**TM:** Idea of getting together with arbiter needs to happen.  
 **IS:** TM, do you think it’s reasonable to expect everyone dedicates time, or expect people to do their homework.  
 **TM:** Absolutely, we need people to come prepared. Need to document and score ideas prior to meeting. Work through pros and cons objectively. We’re trying to establish this for when things go bad.  
 **IR:** CS are you willing to facilitate this?  
