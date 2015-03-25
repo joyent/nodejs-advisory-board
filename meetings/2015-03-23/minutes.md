@@ -48,7 +48,7 @@ Chris Saint-Amant (CS)
 **CW:** The GH repo was another avenue to provide feedback.  
 **TM:** Should we be doing something on twitter, too?  
 **Nathan:** Sure.  
-****SH:**** We can tweet when new notes are posted, etc.  
+**SH:** We can tweet when new notes are posted, etc.  
 
 
 ## New Business (Private)
