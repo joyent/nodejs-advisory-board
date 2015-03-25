@@ -6,6 +6,6 @@ exclude:
   - CONTRIBUTING.md
   - LICENSE
 markdown: redcarpet
-highlighter: true
+highlighter: pygments
 next_meeting: April 6, 2015 5PM EDT / 2PM PDT
 next_meeting_stamp: 2015-4-6
