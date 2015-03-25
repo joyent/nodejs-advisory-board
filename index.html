@@ -14,6 +14,7 @@ id: index
 <li><b><a href="https://github.com/joyent/nodejs-advisory-board/issues">File An Issue</a></b> If you can easily write up your input, we would love to gather it as an issue so it can have a full discussion around it.</li>
 <li><b><a href="mailto:nodeadvocate@joyent.com">Email The Public Advocate</a></b> If there is something you would prefer to address discreetly, please email the public advocate directly.</li>
 </ol>
+
 <h3>Meeting Minutes</h3>
  {% for meeting in site.data.meetings %}
     <li><a href="https://github.com/joyent/nodejs-advisory-board/blob/master/meetings/{{meeting.date}}/minutes.md">{{meeting.date}}</a>{% if meeting.tldr %}<div class='tldr'><b>TL;DR:</b> {{meeting.tldr}}</div>{% endif %}</li>
