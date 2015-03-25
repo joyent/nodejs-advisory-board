@@ -128,7 +128,7 @@ If you are interested in participating in API Compliance next steps please sign 
 
 
 ## Next Meeting
-Please join our next meeting, TBD at https://global.gotomeeting.com/join/524998381 or please dial-in in using your telephone.  
+Please join our next meeting, Monday April 6, 2015 at 2:00 PM PST / 5:00 PM EST at https://global.gotomeeting.com/join/524998381 or please dial-in in using your telephone.  
 
 
 ```
