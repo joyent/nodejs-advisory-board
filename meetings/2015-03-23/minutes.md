@@ -37,17 +37,17 @@ Chris Saint-Amant (CS)
 **CW:** Definitely agree and are working toward that. Any suggestions as to how to improve?  
 **Travis:** Would be easier to find on the Node.js website. You have to dig to find it and if this is the future direction it should be featured more prominently.  
 **TF:** We can definitely put it on the homepage and the site is open to contributions from the community.  
-**Nathan:** Homepage seems to have out-of-date list to meeting notes. Maybe the process of posting or linking to notes needs to be automated.  
+**Chris:** Homepage seems to have out-of-date list to meeting notes. Maybe the process of posting or linking to notes needs to be automated.  
 **TF:** We can look into that. Right now the site is auto-generated but some parts are still manual.  
-**Nathan:** As someone who writes Node.js exclusively it’s important for me to know what’s happening and unfortunately Google is the best place to find what I need.  
+**Chris:** As someone who writes Node.js exclusively it’s important for me to know what’s happening and unfortunately Google is the best place to find what I need.  
 **DC:** Agreed. We can do better.  
-**DS:** We’ve been looking for more people to engage with the Community WG. If Travis and Nathan are interested, would love to have them get involved.  
+**DS:** We’ve been looking for more people to engage with the Community WG. If Travis and Chris are interested, would love to have them get involved.  
 **BB:** Maybe we should get rid of the private section of the meeting, or minimize it.  
 **DS:** I support that, too.  
-**Nathan:** The way to bring things to the AB was an email address deep in the charter. It might be good to surface that.  
+**Chris:** The way to bring things to the AB was an email address deep in the charter. It might be good to surface that.  
 **CW:** The GH repo was another avenue to provide feedback.  
 **TM:** Should we be doing something on twitter, too?  
-**Nathan:** Sure.  
+**Chris:** Sure.  
 **SH:** We can tweet when new notes are posted, etc.  
 
 
