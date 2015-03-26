@@ -28,4 +28,4 @@ The following relate to the operation of the TSC.
  * has a significant impact on the codebase,
  * is inherently controversial; or
  * has failed to reach consensus amongst the Collaborators who are actively participating in the discussion.
- * The TC should serve as the final arbiter where required.
+ * The TSC should serve as the final arbiter where required.
