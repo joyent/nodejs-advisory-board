@@ -19,7 +19,7 @@ The following relate to the projects initiated by the TSC and the artifacts crea
 * **Non-interference**: The artifacts created should work in any configuration and not create negative interference with each other’s functionality.
 
 The following relate to the choice of projects, assignments of tasks and delivery of code.
-Simultaneous Release: The TSC is responsible for organizing a simultaneous release of appropriate projects at regular intervals.
+* **Simultaneous Release**: The TSC is responsible for organizing a simultaneous release of appropriate projects at regular intervals.
 
 The following relate to the operation of the TSC.
 * **Communication**: All communication between and within the TSC and Projects will be in a fair, open and consistent fashion.
