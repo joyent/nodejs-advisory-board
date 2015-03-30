@@ -4,7 +4,7 @@
 
 ## Project Definition
 
-A *project* is an autonomous group collaborating to achieve a set of responsibilities.
+A *project* is an autonomous group collaborating to fulfill a set of responsibilities.
 
 A project could be a working group collaborating with multiple groups both inside and outside the foundation but with no specific code base of its own to be released. A project could also be a traditional module or set of modules released regularly. This document draws no distinction between what are traditionally referred to as "working groups" or "committees" and traditional software projects.
 
