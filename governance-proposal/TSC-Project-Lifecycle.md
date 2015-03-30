@@ -16,7 +16,7 @@ The TSC shall encourage new Projects and innovation in the technical community. 
 
 ## Bootstrap and Proposal
 
-Before a project is chartered it must first incubate in some manor.
+Before a project is chartered it must first incubate in some manner.
 
 If a project needs to start *in* the foundation members are free to create a repository and begin regular meetings using the free tools available to all project members. During this period the project is unchartered and in the "Bootstrap" cycle and is not entitled to any financial or legal resources of the foundation and can be closed at any time by the TSC. Once the project matures and is ready to write a proposal that is sent to the TSC for approval and the project moves to the "Mature" phase once approved.
 
