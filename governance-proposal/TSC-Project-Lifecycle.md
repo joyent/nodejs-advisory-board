@@ -58,7 +58,7 @@ The TSC shall have the authority to grandfather proposed Projects with a signifi
  * Confirmed acceptance and successful integration of contributions/code to partner/upstream projects. 
  * Testing/integration environment defined and mature, tests and integration run successfully
  * Detailed documentation available documenting the code
-* Core Review
+### Core Review
  * Core-state proposal posted for two weeks
    * Project is shown to be viable, necessary or broadly useful module, subsystem or component of Node.js
    * Project build and test scripts have been created to work with the rest of Platform build
