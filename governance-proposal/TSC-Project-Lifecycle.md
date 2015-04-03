@@ -26,7 +26,7 @@ Board
 
 The Foundation shall encourage new Projects and innovation in the community. New Projects enter the Node.js Foundation through a Proposal. The proposal should include their TSC Charter and Development Policy.
 
-Project should have some prior history and be considered mature and contain a wide contributorship before entering submitting a proposal to enter the foundation.
+Project should have some prior history and be considered mature and contain a wide contributorship before submitting a proposal to enter the foundation.
 
 ## Project Life-Cycle
 
