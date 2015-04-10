@@ -1,5 +1,7 @@
 # Joyent Node.js Advisory Board Meeting Minutes - April 6, 2015
 
+
+## Attendees
 Chris Williams (CW)  
 Chris Saint-Amant (CS)  
 Bert Belder (BB)  
@@ -11,7 +13,6 @@ Danese Cooper (DC)
 Todd Moore (TM)  
 Gianugo Rabellino (GR)  
 Trevor Norris (TN)  
-
 
 
 
