@@ -13,7 +13,7 @@ Danese Cooper (DC)
 Todd Moore (TM)  
 Gianugo Rabellino (GR)  
 Trevor Norris (TN)  
-
+Issac Roth (IR)  
 
 
 ## Recap
