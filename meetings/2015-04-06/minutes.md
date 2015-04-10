@@ -1,4 +1,4 @@
-# Joyent Node.js Advisory Board Meeting Minutes - March 23, 2015
+# Joyent Node.js Advisory Board Meeting Minutes - April 6, 2015
 
 Chris Williams (CW)
 Chris Saint-Amant (CS)
