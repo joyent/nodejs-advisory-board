@@ -4,6 +4,8 @@ board](https://www.joyent.com/blog/node-js-advisory-board).
 Its GitHub repository can be found at
 [http://github.com/joyent/nodejs-advisory-board](http://github.com/joyent/nodejs-advisory-board)
 
+ * 2015-04-06
+  - [Minutes](2015-04-06/minutes.html)
  * 2015-03-23
   - [Minutes](2015-03-23/minutes.html)
  * 2015-03-09
