@@ -27,12 +27,12 @@ Additionally, there are the io.js international communities. I've used the data 
 | [iojs-fi](https://github.com/iojs/iojs-fi) | Finnish | Mature |
 | [iojs-fr](https://github.com/iojs/iojs-fr) | French | Mature |
 | [iojs-he](https://github.com/iojs/iojs-he) | Hebrew | Mature |
-| [iojs-hi](https://github.com/iojs/iojs-hi) | Hindi | Mature |
-| [iojs-hu](https://github.com/iojs/iojs-hu) | Hungarian | Mature |
+| [iojs-hi](https://github.com/iojs/iojs-hi) | Hindi | Incubation |
+| [iojs-hu](https://github.com/iojs/iojs-hu) | Hungarian | Incubation |
 | [iojs-id](https://github.com/iojs/iojs-id) | Indonesian | Mature |
 | [iojs-it](https://github.com/iojs/iojs-it) | Italian | Mature |
 | [iojs-ja](https://github.com/iojs/iojs-ja) | Japanese | Mature |
-| [iojs-ka](https://github.com/iojs/iojs-ka) | Georgian | Mature |
+| [iojs-ka](https://github.com/iojs/iojs-ka) | Georgian | Incubation |
 | [iojs-ko](https://github.com/iojs/iojs-ko) | Korean | Mature |
 | [ioja-mk](https://github.com/iojs/iojs-mk) | Macedonian | Incubation |
 | [iojs-ms](https://github.com/iojs/iojs-ms) | Malay | Incubation |
