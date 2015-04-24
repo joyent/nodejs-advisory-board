@@ -80,31 +80,4 @@ Working group for trademark and website
 
 # Next Meeting
 
-Please join our next meeting, Nov 20, 2014 at 2:00 PM EST / 11:00 AM PST at [https://global.gotomeeting.com/join/532589549](https://global.gotomeeting.com/join/532589549) or please dial-in in using your telephone.
-
-```
-United States: +1 (646) 982-0002
-Australia: +61 2 8355 1023
-Austria: +43 (0) 7 2088 0034
-Belgium: +32 (0) 38 08 1855
-Canada: +1 (647) 497-9350
-Denmark: +45 (0) 69 91 80 05
-Finland: +358 (0) 931 58 1746
-France: +33 (0) 182 880 455
-Germany: +49 (0) 692 5736 7313
-Ireland: +353 (0) 15 290 180
-Italy: +39 0 699 36 98 80
-Netherlands: +31 (0) 708 912 514
-New Zealand: +64 (0) 9 909 7882
-Norway: +47 21 03 58 95
-Spain: +34 931 81 6668
-Sweden: +46 (0) 852 503 498
-Switzerland: +41 (0) 435 0006 96
-United Kingdom: +44 (0) 330 221 0085
-
-
-Access Code: 532-589-549
-Audio PIN: Shown after joining the meeting
-
-Meeting ID: 532-589-549
-```
+Please join our next meeting, Nov 20, 2014 at 2:00 PM EST / 11:00 AM PST connection information is available at [http://nodeadvisoryboard.com](http://nodeadvisoryboard.com).
