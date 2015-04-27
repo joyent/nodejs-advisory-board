@@ -74,7 +74,7 @@ Cian O’Maidin (CO)
 ## BRING BACK ERIK!
 **DS:** Erik’s an overqualified scribe. Missing out on his input.  
 **TM:** I second that. Now what do we do? Now we’d turn to foundation staff for help. Is there someone we could get to take notes?  
-**CW:** Also, can the foundation cover the GoToMeeting.  
+**CW:** Also, can the foundation cover the GoToMeeting?  
 **MD/SN:** Taking note. We’ll circle back. We have an entire staff for Node.js. Let me pull from my extended team to help with that.  
 
 ## Dev Policy for LTS
