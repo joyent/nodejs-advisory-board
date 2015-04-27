@@ -1,4 +1,4 @@
-## ***DRAFT for Public Comment***
+# ***DRAFT for Public Comment***
 
 # Technical Steering Committee (TSC) Charter
 
