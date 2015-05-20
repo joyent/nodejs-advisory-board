@@ -1,0 +1,77 @@
+# Node.js Foundation Advisory Board Meeting
+May 18, 2015
+2:00pm PDT
+via Go To Meeting
+
+## Attendees
+Scott Hammond (SH)
+Mikeal Rogers (MR)
+David Ings (DI)
+Isaac Roth (IR)
+Bert Belder (BB)
+Cian O’Maidin (CO)
+Guy Ellis (GE)
+Danese Cooper (DC)
+Travis Odom (TO)
+Dan Shaw (DS)
+Mike Dolan (MD)
+Scott Nicholas (SN)
+Todd Benzies (TB)
+
+## Conference Lines
+MD:  Determining pricing and logistics for Go To Meeting accounts for Node.js
+MR:  Someone from Uber reached out and may be able to get free accounts
+
+## Updates from Linux Foundation (MD)
+Foundation is moving full steam ahead
+Thanks to Mikeal for help in communicating out a statement for the need for the Foundation -- very well done.
+io.js voted in favor of moving io.js work into Node.js Foundation
+All signs are very strong in terms of tech communities coming together
+Last week’s joint TC call went well -- solid planning and discussion, very few disruptive questions left, making progress towards reunification
+Working with Casey who is helping update Node.js website to include things under Foundation section (now in menu) -- still continuing to build out content and get initial content up
+Signing package is complete (now on Node.js website)
+Working on form to capture membership inquiries
+3 members have officially signed up
+MR:  Do companies have to sign agreement to be part of announcement, or just state intent?  MD:  Signed agreements are needed to be part of the announcement.
+DI:  What is launch target more specific that early-June?  SN:  Has not been finalized.
+CO:  Is there a calendar of dates anywhere where things are scheduled to happen?  Yes -- go to Nodejs.org -- new tab for Foundation.
+
+## Individual Members
+DS:  Is there a way for non-corporate to participate in foundation?
+MR:  In deck it says there can be individual members
+DC:  This needs to get ironed out so there isn’t the perception of “it is only big companies”
+MD:  What does an individual member get that a contributor in the community does not?  Can we ask the Community WG to define this?
+CO:  We could start of with tshirt and nodejs email address?
+MD:  Define 1-3 things that are benefits of individual member and what is the price point?  LUGs put on by members of org (individual member can get access to package/funds)
+MD:  Community WG to pull this together, driven by CO to start writing this up.
+MR:  When it gets written up, put on repo called “membership”
+MR:  Creating a repo and adding Cian to it https://github.com/nodejs/membership
+
+## Community WG
+Danese still needs to be added to Community WG.
+MD:  Who else has been involved?
+DC:  Dan has mainly been driving
+TO:  I set up doodle…. 11am Wednesday seems to be best for everyone.
+DC:  Will be flying then.
+MR:  Can’t make it then either.
+CO:  Also on plane
+MR:  What is charter outside of figuring out membership?
+DC:  Help filtering community needs upwards.
+CO:  Who organizes doodle poll?  Cian has someone named Guy that can help.
+MD:  In next AB meeting, Guy can give a Community WG update.
+
+## Open Discussion
+TO:  What is the purpose of Associate Membership?
+MD:  Usually there for academic institutions or other non-profit orgs.  Generally undefined, and Board later defines.  Could do a start-up membership tier (i.e. under xx employees or xx revenue).
+Other WGs that may need help?
+MR:  Website WG needs help.
+
+## New Action Items
+
+SN to hone in on announcement date with Jennifer Cloer
+CO to drive the Community WG to pull this together details of individual membership https://github.com/nodejs/membership
+GE:  Danese needs to be added to Community WG
+GE:  Get scheduling set up for Community WG
+DI:  Open on GitHub to invite end user feedback
+EVERYONE:  Get signed membership agreement in ASAP
+TB:  Send membership agreement to Danese via EchoSign
