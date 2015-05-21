@@ -1,4 +1,4 @@
-## ***DRAFT for Public Comment***
+# ***DRAFT for Public Comment***
 
 # Node.js Foundation Project Lifecycle
 
