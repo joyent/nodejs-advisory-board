@@ -129,4 +129,4 @@ Cian O’Maidin (CO)
 
 
 ## Next Meeting
-TBA
+Please join our next meeting, Monday May 4, 2015 at 2:00 PM PST / 5:00 PM EST connection information is available at [http://nodeadvisoryboard.com](http://nodeadvisoryboard.com).
