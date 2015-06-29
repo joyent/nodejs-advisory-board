@@ -3,7 +3,7 @@ This document describes the existing io.js and node.js working groups and resour
 | Group | io.js | node.js | Lifecycle |
 | ----- | ----- | ------- | --------- |
 | Build | [build](https://github.com/iojs/build) | ? | Core |
-| Docker | [docker](https://github.com/iojs/build) | [docker-node](https://github.com/joyent/docker-node) | Mature |
+| Docker | [docker-iojs](https://github.com/iojs/docker-iojs) | [docker-node](https://github.com/joyent/docker-node) | Mature |
 | Website | [website](https://github.com/iojs/website) | [node-website](https://github.com/joyent/node-website) | Mature |
 | Evangelism | [evangelism](https://github.com/iojs/evangelism) | none | Mature |
 | Hardware | [hardware](https://github.com/iojs/hardware) | none | Incubation |
