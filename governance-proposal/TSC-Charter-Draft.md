@@ -38,7 +38,7 @@ Subject to such policies as may be set by the Board, the TSC is responsible for 
 * Release quality standards
 * Technical direction
 * Project governance and process (including this policy)
-* GitHub repository hosting
+* Source code repository hosting
 * Conduct guidelines
 * Maintaining the list of additional Collaborators
 * Development process and any coding standards
@@ -88,9 +88,9 @@ If an agenda item cannot reach a consensus a TSC member can call for either a cl
 
 ## Section 9. Project Roles
 
-The Node.js Foundation git repository is maintained by the TSC and additional Collaborators who are added by the TSC on an ongoing basis.
+The Node.js Foundation source code repository is maintained by the TSC and additional Collaborators who are added by the TSC on an ongoing basis.
 
-Individuals making significant and valuable contributions, “Contributor(s)”, are made Collaborators and given commit-access to the project. These individuals are identified by the TSC and their addition as Collaborators is discussed during the weekly TSC meeting. Modifications of the contents of the git repository are made on a collaborative basis as defined in the development process.
+Individuals making significant and valuable contributions, “Contributor(s)”, are made Collaborators and given commit-access to the project. These individuals are identified by the TSC and their addition as Collaborators is discussed during the weekly TSC meeting. Modifications of the contents of the source repository are made on a collaborative basis as defined in the development process.
 
 Collaborators may opt to elevate significant or controversial modifications, or modifications that have not found consensus to the TSC for discussion by assigning the `tsc-agenda` tag to a pull request or issue. The TSC should serve as the final arbiter where required. The TSC will maintain and publish a list of current Collaborators by Project, as well as a development process guide for Collaborators and Contributors looking to participate in the development effort.
 
