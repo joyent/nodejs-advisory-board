@@ -1,0 +1,57 @@
+# Node.js Foundation Advisory Board Meeting
+July 13, 2015
+2:00pm PDT
+via Go To Meeting
+
+## Attendees
+
+Mikeal Rogers (MR)
+Scott Nicholas (SN)
+Gianugo Rabellino (GR)
+Todd Moore (TM)
+Todd Benzies (TB)
+Travis Odom (TO)
+Christopher Case (CC)
+Trevor Norris (TN)
+Danese Cooper (DC)
+Dan Shaw (DS)
+Trevor Livingston (TL)
+Isaac Roth (IR)
+Bert Belder (BB)
+
+## Linux Foundation Update from Scott Nicholas
+Concluding the voting period for election of Silver Director tonight, will send an announcement shortly thereafter.
+Gold election is complete -- Charlie Robbins, GoDaddy
+Mikeal Rogers has joined LF as Community Manager -- welcome!  A more formal announcement will be coming soon.
+Once Silver elections are complete, the next board meeting will be scheduled and an ongoing cadence will be established.
+DC:  Mondays have been working well.
+SN:  What about the group using _this_ time slot on the alternating weeks?
+No objections to this, however:
+7/20 many on way to OSCON
+8/3 too far out
+Tentative to use 7/27 at this time
+
+## Open Discussion
+TM: What immediate tasks do we need to take up?
+DC:  Going over committees and figure out which go into Board?
+??:  Plan or committee for getting an event going?
+DC:  Start another event or just work within existing event structure?
+??:  Suggestion for a more business focused event.
+TM:  This can be a question to Marketing committee
+??:  There should be a Foundation-backed event that should be the hub.
+DC:  My experience is there are no events that are organized by a community… normally there are a few people taking the lead.  Last year, Node gave blessing to the big event in San Francisco, rather than try to create their own.
+SN:  Variety of services LF can provide w/ respect to hosting and putting on a conference… complete turnkey services
+DC:  In nearterm if we were to do 2015 or early 2016 -- pick a conference (i.e. Node Summit), and Foundation can graft business track on.
+MR:  Node Summit may or may not make sense for a variety of reasons.  Need to talk with Charles to see where things stand for the next Summit.
+DC:  Doesn’t have to be Node Summit, can be a different event.
+DS:  Charles (Node Summit organizer) is interested in running Node Summit 2016.
+??:  Get ideas from Marketing team and then bring it to LF events team for recommendations.
+SN:  What time window is being considered?
+DC:  First half 2016.
+DC:  As Board members become better known, they will get asked to appear at regional events.  Worth getting together a golden pitch about what the Foundation is.
+??:  Build infrastructure needs to get transitioned.
+MR:  Isn’t it all donated hardware?
+??:  True for Node.js as well?
+MR:  Intention was to put Node.js on io.js infra.
+BB:  Alexis is working on this.
+TM:  As it relates to standards bodies, Foundations often set up a liaison (acting on behalf of Foundation, not individual or company).  MR to think about a person that could be a good fit.
